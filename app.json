@@ -1,0 +1,9 @@
+{
+  "one_time": false,
+  "buttons": [
+    [
+      {"action":{"type":"command","label":"!ням 30","payload":{"command":"nyam_30"}},"color":"primary"},
+      {"action":{"type":"command","label":"!хранилище","payload":{"command":"xranilische"}},"color":"secondary"}
+    ]
+  ]
+}
